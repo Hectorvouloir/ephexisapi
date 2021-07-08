@@ -36,8 +36,18 @@
   }, 
   {
     "id": 8,
-    "tagw": "",
-    "conseil": ""
+    "tagw": "pardon,excuses,excuser,s'excuser,pardonner,miséricorde,ressentiment,vengeance,haine,revanche,frustration,rancoeur,rancune,représailles,amertume,représaille,rancunes,rancoeurs,aversion,colère,hostilité",
+    "conseil": "Il semblerait que le ressentiment abîme et que certains groupes non depressifs pardonnent plus facilement par rapport à des groupes d'individus dépressifs:  <br><br><html> <a href=\"https://journals.sagepub.com/doi/abs/10.1177/1359105314544132?journalCode=hpqa\">Effects of lifetime stress exposure on mental and physical health in young adulthood: How stress degrades and forgiveness protects health - Department of Psychology, Luther College, USA</a></html>  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/pii/S187704281101843X\">Comparison of Forgiveness in Clinical Depressed, Non-Clinical Depressed and Normal People - Department of Psychology, University of Tehran</a></html>  <br><br>...et il pourrait conduire à certains problèmes : <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/pii/S0735109708041259?via%3Dihub\">The Association of Anger and Hostility With Future Coronary Heart Disease: A Meta-Analytic Review of Prospective Evidence - Journal of the American College of Cardiology</a></html>  <br><br><html> <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5055412/\">Forgiveness, Stress, and Health: a 5-Week Dynamic Parallel Process Study - Department of Psychology, Luther College, USA</a></html>" 
+  },  
+  {
+    "id": 9,
+    "tagw": "pardon,excuses,excuser,s'excuser,pardonner,miséricorde,ressentiment,vengeance,haine,revanche,frustration,rancoeur,rancune,représailles,amertume,représaille,rancunes,rancoeurs,aversion,colère,hostilité",
+    "conseil": "rrr"
+  },
+  {
+    "id": 10,
+    "tagw": "pardon,excuses,excuser,s'excuser,pardonner,miséricorde,ressentiment,vengeance,haine,revanche,frustration,rancoeur,rancune,représailles,amertume,représaille,rancunes,rancoeurs,aversion,colère,hostilité",
+    "conseil": "eee"
   }
   
 ]
