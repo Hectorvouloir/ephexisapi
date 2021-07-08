@@ -6,7 +6,7 @@
   },
   {
     "id": 2,
-    "tagw": "confiance,amitié,discuter,parler,parole,confession,aide,autres,proches,proche,aimer,amour",
+    "tagw": "confiance,amitié,discuter,parler,parole,confession,aide,autres,proches,proche,aimer,amour,solitude,isolement,abandon,rupture,amour,deuil,mort,séparation",
     "conseil": "<br><br><br>Contenir ses émotions sans les confier pourrait être intenable et compliquer leur régulation et il semblerait qu'il existe des liens entre la capacité à faire confiance et une auto-évaluation positive du bonheur:  <br><br><html> <a href=\"https://www.researchgate.net/publication/241647192_Emotion_Elicits_the_Social_Sharing_of_Emotion_Theory_and_Empirical_Review\">Emotion Elicits the Social Sharing of Emotion: Theory and Empirical Review - Université Catholique de Louvain</a></html>  <br><br><html> <a href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091786\">Generalized Trust and Intelligence in the United States - Department of Sociology and Nuffield College, University of Oxford, Oxford, United Kingdom</a></html>"
   },
   {
@@ -73,5 +73,10 @@
     "id": 15,
     "tagw": "chaleur,canicule,chaud,sueur,transpiration,transpirer,ambiante,température",
     "conseil": "La température ambiante a une incidence sur la santé mentale:  <br><br><html> <a href=\"https://pubmed.ncbi.nlm.nih.gov/31590065/\"> - Temperature and mental health: Evidence from the spectrum of mental health outcomes - University of Massachusetts</a></html>  <br><br><html> <a href=\"https://pubmed.ncbi.nlm.nih.gov/30007545/\"> - Associations between high ambient temperatures and heat waves with mental health outcomes: a systematic review - Public Health England</a></html>  <br><br><html> <a href=\"https://pubmed.ncbi.nlm.nih.gov/17666493/\"> - Relationship between daily suicide counts and temperature in England and Wales - Department of Psychological Medicine, Institute of Psychiatry, King's College London</a></html>  <br><br><html> <a href=\"https://ps.psychiatryonline.org/doi/full/10.1176/appi.ps.201100485\"> - Relationship Between Ambient Temperature and Humidity and Visits to Mental Health Emergency Departments in Québec - Psychiatric Services</a></html>  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S016762961830105X#!\"> - Temperature and mental health: Evidence from the spectrum of mental health outcomes - University of Massachusetts</a></html>"
+  },
+  {
+    "id": 16,
+    "tagw": "sexualité,drague,séduction,amour,sexe,sex,séducteur",
+    "conseil": "Certaines formes d'anxiétés pourraient être mésinterpretées par le corps comme un symptôme d'attirance passionnelle:  <br><br><html> <a href=\"https://psycnet.apa.org/record/1975-03016-001\"> - Some evidence for heightened sexual attraction under conditions of high anxiety. - Journal of Personality and Social Psychology</a></html>  <br><br><html> <a href=\"https://en.wikipedia.org/wiki/Misattribution_of_arousal\"> - Misattribution of arousal - Wikipedia</a></html>"
   }
 ]
