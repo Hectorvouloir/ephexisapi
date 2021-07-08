@@ -21,18 +21,23 @@
   },
   {
     "id": 5,
-    "tagw": "chocolat,noir,stress,anxiété,angoisse,cacao",
+    "tagw": "chocolat,stress,anxiété,angoisse,cacao",
     "conseil": "L'anxiété et les inflammations pourraient être réduites par la consommation de chocolat noir:   <br><br><html> <a href=\"https://news.llu.edu/for-journalists/press-releases/new-studies-show-dark-chocolate-consumption-reduces-stress-and-inflammation-while-improving-memory-immunity-and-mood\">New studies show dark chocolate consumption reduces stress and inflammation, while improving memory, immunity and mood </a></html>  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/pii/S0735109714015836\">Dark Chocolate Intake Buffers Stress Reactivity in Humans - Journal of the American College of Cardiology </a></html>  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0889159116300976\">Dark chocolate attenuates intracellular pro-inflammatory reactivity to acute psychosocial stress in men: A randomized controlled trial - Brain, Behavior, and Immunity</a></html>"
   },
   {
     "id": 6,
-    "body": "some comgrgrment",
-    "postIgrgrd": 1
+    "tagw": "faim,estomac,gargouillement,appétit,famine,fringale,malnutrition,creux,manque",
+    "conseil": "L'anxiété peut venir d'une faim:  <br><br><html> <a href=\"https://www.cerveauetpsycho.fr/sd/neurobiologie/pourquoi-sommes-nous-de-mauvaise-humeur-quand-nous-avons-faim-15447.php\">Pourquoi sommes-nous de mauvaise humeur quand nous avons faim ? - Cerveau&Psycho</a></html>  <br><br><html> <a href=\"https://pubmed.ncbi.nlm.nih.gov/30112578/\">An exploration of the aversive properties of 2-deoxy-D-glucose in rats - Department of Psychology and Neuroscience, University of Guelph</a></html>"
   },
   {
     "id": 7,
-    "body": "some comgrgrment",
-    "postIgrgrd": 1
+    "tagw": "sport,effort,activité,physique,sportive,sédentarité,paresse,flemme,muscle,musculaire,cardio,cardiovasculaire,coeur,courir,nager,danser,sauter,marcher,randonnée,pédaler,cyclisme,vélo",
+    "conseil": "Le sport a une incidence positive contre la dépression:  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S027273589900032X\">Effects of physical exercise on anxiety, depression, and sensitivity to stress: A unifying theory - Clinical Psychology Review</a></html>"
+  }, 
+  {
+    "id": 8,
+    "tagw": "",
+    "conseil": ""
   }
   
 ]
