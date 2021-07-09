@@ -128,5 +128,40 @@
     "id": 27,
     "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,calin,calin,câlin,câlins,bisou,bisous,amour,couple,caresse,caresses",
     "conseil":"Les câlins et les caresses pourraient permetre de diminuer le stress (et la depression):  <br><br><html> <a href=\"https://www.arte.tv/fr/videos/089055-000-A/le-pouvoir-des-caresses/\">Besoin d'un câlin? - Arte</a></html>  <br><br><html> <a href=\"https://www.bbc.com/news/uk-52279411\">Coronavirus: Why going without physical touch is so hard? - BBC news</a></html>  <br><br><html> <a href=\"https://www.nytimes.com/2010/02/23/health/23mind.html\">Evidence That Little Touches Do Mean So Much - TheNewYorkTimes</a></html>  <br><br><html> <a href=\"https://www.independent.co.uk/life-style/touch-skin-hunger-hugs-coronavirus-lockdown-isolation-ctactile-afferent-nerve-a9501676.html\">Affection deprivation: What happens to our bodies when we go without touch? - Independent</a></html>"
-  }
+  },
+  {
+    "id": 28,
+    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,émotions,renforcer,mémorisation,souvenirs,souvenir,memoire,mémoire,oubli,oublie,oublier,rappeler,mémoriel",
+    "conseil":"Les émotions et les sentiments peuvent permettre une mémorisation plus efficace:  <br><br><html> <a href=\"https://www.cerveauetpsycho.fr/sd/neurobiologie/lemotion-ciment-du-souvenir-1891.php\">L'émotion, ciment du souvenir - Ceveau & Psycho</a></html>"
+  },
+  {
+    "id": 29,
+    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,espacement,oubli,Ebbinghaus,cartes,mémoire,carte,memoire,mémoires,souvenir,souvenirs,espacée,mémorisation,oubli,oublier,oublie,rappeler",
+    "conseil":"La mémorisation espacée permet d'apprendre plus efficacement des connaissances:  <br><br><html> <a href=\"https://firstmonday.org/ojs/index.php/fm/article/view/7729/6532\">The impact of binge watching on memory and perceived comprehension</a></html>  <br><br><html> <a href=\"https://fr.wikipedia.org/wiki/Courbe_de_l%27oubli\">Courbe de l'oubli - Wikipedia</a></html>  <br><br><html> <a href=\"https://pubmed.ncbi.nlm.nih.gov/26148023/\">Replication and Analysis of Ebbinghaus' Forgetting Curve -  University of Amsterdam</a></html>"
+  },
+  {
+    "id": 30,
+    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,café,capacités,capacité,cognitif,cognitive,cognitives,attention,migraine,caffeine,cafféine,sevrage,dépendance,drogue",
+    "conseil":"Le café peut améliorer l'attention et certaines fonctions cognitives, mais aussi conduire à des problèmes de tolérance et de sevrage:  <br><br><html> <a href=\"https://pubmed.ncbi.nlm.nih.gov/27612937/\">A review of caffeine's effects on cognitive, physical and occupational performance - Neuroscience & Biobehavioral Reviews</a></html>  <br><br><html> <a href=\"https://pubmed.ncbi.nlm.nih.gov/25527035/#affiliation-1\">Caffeine improves reaction time, vigilance and logical reasoning during extended periods with restricted opportunities for sleep -  Center for Psychiatry and Neuroscience</a></html>  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/pii/S0149763416300690#!\">A review of caffeine’s effects on cognitive, physical and occupational performance -  Neuroscience & Biobehavioral Reviews</a></html>  <br><br><html> <a href=\"https://pubmed.ncbi.nlm.nih.gov/15723227/\">The effect of caffeine on cognitive task performance and motor fatigue  - University of Groningen</a></html>"
+  },
+  {
+    "id": 31,
+    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,pause,pauses,défault,default,defaut,réver,rever,révasser,revasser,lune,étourdi,étourdie,concentration,attention",
+    "conseil":"Les pauses qui activent le réseau par défaut sont plus efficaces sur l'augmentation de la productivité et rendent plus productif:  <br><br><html> <a href=\"https://fr.wikipedia.org/wiki/R%C3%A9seau_du_mode_par_d%C3%A9faut\">Réseau du mode par défaut - Wikipedia</a></html>  <br><br><html> <a href=\"https://theconversation.com/une-pause-au-travail-oui-mais-pas-nimporte-laquelle-82608\">Une pause au travail ? Oui, mais pas n’importe laquelle ! - The Conversation</a></html>  <br><br><html> <a href=\"https://start.lesechos.fr/travailler-mieux/vie-entreprise/letude-qui-prouve-que-la-pause-rend-plus-productif-au-travail-1178020\">L’étude qui prouve que la pause rend plus productif au travail</a></html>"
+  },
+  {
+    "id": 32,
+    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,méditation,méditer,meditation,mediter,attention",
+    "conseil": "La méditation augmente certaines fonctions cognitives: <br><br><html> <a href=\"https://www.nature.com/articles/s41598-018-32046-5\">Mindful breath awareness meditation facilitates efficiency gains in brain networks: A steady-state visually evoked potentials study - Nature</a></html>"
+  },
+  {
+    "id": 33,
+    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,interrompu,capacité,capacités,cognitif,cognitives,cognitive,sommeil,fatigue,dormir,dodo,manque,nuit,sieste,pause,insomnie,insomniaque",
+    "conseil": "Un sommeil interrompu ou de mauvaise qualité diminue les capacités cognitives: <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S1389945714001579?via%3Dihub\"> - Effects of one night of induced night-wakings versus sleep restriction on sustained attention and mood: a pilot study - Sleep Medicine</a></html>  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S016643281530348X\"> - Chronical sleep interruption-induced cognitive decline assessed by a metabolomics method - Behavioural Brain Research</a></html>"
+  },
+  {
+    "id": 34,
+    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,interrompu,capacité,capacités,cognitif,cognitives,cognitive",
+    "conseil": "Être interrompu diminue fortement la productivité:  <br><br><html> <a href=\"https://repository.arizona.edu/handle/10150/185243\"> - Deleterious effects of intermittent interruptions on the task performance of knowledge workers: A laboratory investigation - The University of Arizona</a></html>  <br><br><html> <a href=\"https://www.researchgate.net/publication/332917086_How_Do_Interruptions_Affect_Productivity\"> - How Do Interruptions Affect Productivity? - University College London</a></html>  <br><br><html> <a href=\"https://www.researchgate.net/publication/308480731_Failures_Due_to_Interruptions_or_Distractions_A_Review_and_a_New_Framework\"> - Failures Due to Interruptions or Distractions: A Review and a New Framework - The American Journal of Psychology </a></html>"
+  },
 ]
