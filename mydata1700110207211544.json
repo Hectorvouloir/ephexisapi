@@ -116,7 +116,17 @@
   },
   {
     "id": 25,
-    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,cohérence,coherence,cardiaque,panique,peur,respirer,réspirer,inspirer,cortisol",
-    "conseil":"Avoir une alarme mélodieuse peut diminuer la sleep inertia (inertie du sommeil):  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S1155170407740764?via%3Dihub\">Biofeedback par la cohérence cardiaque : nouvelle approche du trouble panique - Journal de Thérapie Comportementale et Cognitive</a></html>  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0924933814005306#!\">La cohérence cardiaque : état des connaissances actuelles et bénéfices en psychiatrie - CHU Caen, service universitaire de psychiatrie, centre Esquirol, Caen, France</a></html>  <br><br><html> <a href=\"https://www.youtube.com/watch?v=StpBBksAl90\">5 minutes de cohérence cardiaque</a></html>"
+    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,sport,effort,activité,physique,sportive,sédentarité,paresse,flemme,muscle,musculaire,cardio,cardiovasculaire,coeur,courir,nager,danser,sauter,marcher,randonnée,pédaler,cyclisme,vélo,assis,chaise,debout,rester,s'asseoir,asseoir,chaise"
+    "conseil":"Rester assis trop longtemps pourrait induire des complications psychologiques:  <br><br><html> <a href=\"https://www.sciencenewsforstudents.org/article/too-much-sitting-could-hurt-mental-health/amp\">Too much sitting could hurt your mental health - Science News for students</a></html>  <br><br><html> <a href=\"https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-015-1851-x#:~:text=Sedentary%20behavior%20is%20defined%20as%20any%20waking%20behavior,%28METs%29%20of%20common%20sitting%2C%20standing%20and%20walking%20tasks.\">Energy expenditure during common sitting and standing tasks: examining the 1.5 MET definition of sedentary behaviour - BMC Public Health</a></html>"
+  },
+  {
+    "id": 26,
+    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,accélerer,réveil,sleep,latency,inertia,inertie,réveiller,matin,sport,effort,activité,physique,sportive,sédentarité,paresse,flemme,muscle,musculaire,cardio,cardiovasculaire,coeur,courir,nager,danser,sauter,marcher,randonnée,pédaler,cyclisme,vélo",
+    "conseil":"Le sport pourrait accélerer les changement physiologiques du réveil, limitant l'inertie du sommeil:  <br><br><html> <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7155753/\">Exercising Caution Upon Waking–Can Exercise Reduce Sleep Inertia? - Frontiers in Physiology</a></html>"
+  },
+  {
+    "id": 27,
+    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,calin,calin,câlin,câlins,bisou,bisous,amour,couple,caresse,caresses",
+    "conseil":"Les câlins et les caresses pourraient permetre de diminuer le stress (et la depression):  <br><br><html> <a href=\"https://www.arte.tv/fr/videos/089055-000-A/le-pouvoir-des-caresses/\">Besoin d'un câlin? - Arte</a></html>  <br><br><html> <a href=\"https://www.bbc.com/news/uk-52279411\">Coronavirus: Why going without physical touch is so hard? - BBC news</a></html>  <br><br><html> <a href=\"https://www.nytimes.com/2010/02/23/health/23mind.html\">Evidence That Little Touches Do Mean So Much - TheNewYorkTimes</a></html>  <br><br><html> <a href=\"https://www.independent.co.uk/life-style/touch-skin-hunger-hugs-coronavirus-lockdown-isolation-ctactile-afferent-nerve-a9501676.html\">Affection deprivation: What happens to our bodies when we go without touch? - Independent</a></html>"
   }
 ]
