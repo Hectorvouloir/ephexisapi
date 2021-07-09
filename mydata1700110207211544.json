@@ -161,7 +161,22 @@
   },
   {
     "id": 34,
-    "tagw": "tristesse,depression,angoisse,stress,suicide,triste,pleurer,larmes,larme,pleurs,moral,abattement,émotion,problème,problèmes,probleme,anxiété,interrompu,capacité,capacités,cognitif,cognitives,cognitive",
-    "conseil": "Être interrompu diminue fortement la productivité:  <br><br><html> <a href=\"https://repository.arizona.edu/handle/10150/185243\"> - Deleterious effects of intermittent interruptions on the task performance of knowledge workers: A laboratory investigation - The University of Arizona</a></html>  <br><br><html> <a href=\"https://www.researchgate.net/publication/332917086_How_Do_Interruptions_Affect_Productivity\"> - How Do Interruptions Affect Productivity? - University College London</a></html>  <br><br><html> <a href=\"https://www.researchgate.net/publication/308480731_Failures_Due_to_Interruptions_or_Distractions_A_Review_and_a_New_Framework\"> - Failures Due to Interruptions or Distractions: A Review and a New Framework - The American Journal of Psychology </a></html>"
+    "tagw": "comportement,punition,motivation,flemme,procrastination",
+    "conseil": "Voir la situation comme la promesse d'une récompense ou comme la condition de l'absence d'une punition change le comportement:  <br><br><html> <a href=\"https://www.sciencedirect.com/science/article/pii/S0896627319310487\"> - Opposing Contributions of GABAergic and Glutamatergic Ventral Pallidal Neurons to Motivational Behaviors - Neuron</a></html>"
+  },
+  {
+    "id": 35,
+    "tagw": "Drill,drill,jeu,amusement",
+    "conseil": "On peut utiliser la méthode du Drill pour apprendre plus facilement:  <br><br><html> <a href=\"https://fr.wikipedia.org/wiki/Drill_(%C3%A9ducation)\"> - Drill(éducation) - Wikipedia</a></html>"
+  },
+  {
+    "id": 36,
+    "tagw": "biais,simple,exposition,aimer,manipulation",
+    "conseil": "Plus on est exposé à quelque-chose plus on a tendance à l'apprécier:  <br><br><html> <a href=\"https://fr.wikipedia.org/wiki/Effet_de_simple_exposition\"> - Effet de simple exposition - Wikipedia</a></html>"
+  },
+  {
+    "id": 37,
+    "tagw": "erreur,faute,échec,echec,echecs",
+    "conseil": "Apprendre se fait par l'erreur de prédiction de la récompense chez les primates:  <br><br><html> <a href=\"https://pubmed.ncbi.nlm.nih.gov/11452299/\"> - Dopamine responses comply with basic assumptions of formal learning theory - Nature</a></html>"
   }
 ]
